@@ -9,7 +9,7 @@ It allows external systems to **create**, **update**, **delete**, and **fetch** 
 
 ## 🔧 Installation
 
-1. Copy the module folder (e.g., `rest_partner_api/`) to your Odoo `addons/` directory.
+1. Copy the module folder (e.g., `rest_api/`) to your Odoo `addons/` directory.
 2. Update the app list in Odoo.
 3. Install the module via Apps menu.
 
@@ -37,7 +37,7 @@ All endpoints accept and return `application/json`.
 
 ```json
 {
-  "name": "Ali Zer",
-  "email": "ali@example.com",
+  "name": Usama",
+  "email": "usama@example.com",
   "phone": "1234567890"
 }
